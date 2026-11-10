@@ -1,4 +1,3 @@
-# AFT-MINI-APP
 
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
